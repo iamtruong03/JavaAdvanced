@@ -23,3 +23,19 @@ Nghiên cứu thực tế
 
 19/4
 cài icon
+
+* 26/4
+Lập trình kết nối CSDL (CN JDBC)
+
+2023it602001
+
+tbluser
+tblps (product_system, hệ sp)
+tblpg (product_group, nhóm sp)
+tblpc (product_category, loại sp)
+tblproduct (sp)
+tblorder (hóa đơn)
+
+3/5 ghép csdl-> java swing
+
+
