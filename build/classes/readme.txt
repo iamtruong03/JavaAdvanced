@@ -36,6 +36,6 @@ tblpc (product_category, loại sp)
 tblproduct (sp)
 tblorder (hóa đơn)
 
-3/5
+3/5 ghép csdl-> java swing
 
 
